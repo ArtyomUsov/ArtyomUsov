@@ -3,13 +3,13 @@
   <h3>Frontend developer from Samara</h3>
 </div>
 <div id="socials" align="center">
-  <a href='https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D1%83%D1%81%D0%BE%D0%B2-6292a9281/'>
+  <a href='https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D1%83%D1%81%D0%BE%D0%B2-6292a9281/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>
   </a>
-  <a href='https://career.habr.com/usovartyom1'>
+  <a href='https://career.habr.com/usovartyom1' target='_blank'>
     <img src='https://img.shields.io/badge/HabrCareer-blue?style=for-the-badge&logo=habrcareer&logoColor=white' alt='HabrCareer'>
   </a>
-  <a href='https://t.me/UsovArtem'>
+  <a href='https://t.me/UsovArtem' target='_blank'>
     <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'>
   </a>
 </div>
